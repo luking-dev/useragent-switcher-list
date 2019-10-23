@@ -5,6 +5,8 @@ List of a User-Agent browsers for Google Chrome app.
 To download user-agent-switcher extension, please click on the link below:
 
 http://bit.ly/362IPVC
+<br/>
+<br/>
 
 To add a list of agents, go to:
 
